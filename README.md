@@ -37,9 +37,6 @@ This project proposes a **strategic (pre-flight) deconfliction system**, ensurin
 📦 UAV-Strategic-Deconfliction-in-Shared-Airspace
 │
 ├── src/ # Core implementation
-├── data/ # Simulation or configuration data
-├── docs/ # Reports, diagrams, methodology
-├── tests/ # Test cases (optional/future)
 ├── README.md # Project documentation (this file)
 └── requirements.txt # Dependencies list (if applicable)
 
