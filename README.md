@@ -81,7 +81,7 @@ This project proposes a **strategic (pre-flight) deconfliction system**, ensurin
 
 | Name | Role |
 |------|------|
-| **Rishikesh Nipunje** | Developer / Researcher |
+| **Rishikesh Nipunge** | Developer / Researcher |
 
 > Want to collaborate? Contributions are welcome!
 
