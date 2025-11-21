@@ -43,8 +43,7 @@ This project proposes a **strategic (pre-flight) deconfliction system**, ensurin
 ├── README.md # Project documentation (this file)
 └── requirements.txt # Dependencies list (if applicable)
 
-yaml
-Copy code
+
 
 ---
 
@@ -91,12 +90,6 @@ Copy code
 ## 📜 License
 
 This project will follow an appropriate license (MIT/GPL/Apache — TBD).
-
----
-
-## 🔗 References
-
-- Research papers and standards related to UAV airspace management, UTM, and strategic deconfliction (to be added as documentation progresses).
 
 ---
 
