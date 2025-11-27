@@ -90,4 +90,4 @@ This project will follow an appropriate license (MIT/GPL/Apache — TBD).
 
 ---
 
-### ⭐ If you find this project useful, don't forget to **star the repo!**
+###  If you find this project useful, don't forget to **star the repo!**
